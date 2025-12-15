@@ -22,7 +22,7 @@ public class CalculatorGUI extends JFrame {
         add(new JLabel("Number 2:"));
         number2Field = new JTextField();
         add(number2Field);
-
+        // Step 2: Adding calculator operation buttons
         JButton addBtn = new JButton("Add");
         JButton subBtn = new JButton("Subtract");
         JButton mulBtn = new JButton("Multiply");
