@@ -1,5 +1,5 @@
 public class CalculatorLogic {
-
+    //Step 3: Added calculator logic for operations
     public double add(double a, double b) {
         return a + b;
     }
