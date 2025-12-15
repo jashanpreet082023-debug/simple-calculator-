@@ -77,7 +77,7 @@ public class CalculatorGUI extends JFrame {
                     JOptionPane.WARNING_MESSAGE);
         }
     }
-
+    //Step 5: Final cleanup and documentation
     private void clearFields() {
         number1Field.setText("");
         number2Field.setText("");
