@@ -6,7 +6,7 @@ public class CalculatorGUI extends JFrame {
     private JTextField number1Field;
     private JTextField number2Field;
     private JTextField resultField;
-
+    //Step 4: Calculator operation logic will be implemented here
     private CalculatorLogic calculator = new CalculatorLogic();
 
     public CalculatorGUI() {
